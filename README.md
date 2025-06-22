@@ -71,10 +71,6 @@ This guide outlines the streamlined process to automatically deploy a web applic
 
 Pipeline successful executed in bit bucket.
 
-
-
 With public IP on browser hosted the website
-
-![image.png](attachment:437d15cf-7cfe-4afe-bf05-261b6d180dbc:image.png)
 
 When changed and pushed again the changes are displayed successfully
