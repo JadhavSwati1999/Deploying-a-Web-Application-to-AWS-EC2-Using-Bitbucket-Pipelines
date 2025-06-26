@@ -1,4 +1,4 @@
-# 🚀 Deploying a Web Application to AWS EC2 Using Bitbucket Pipelines
+# 🚀 Deploying a Web Application to AWS EC2 Using Bitbucket Pipelines.
 
 This guide outlines the streamlined process to automatically deploy a web application to an AWS EC2 instance using **Bitbucket Pipelines**, with resources integrated from **AWS S3**, **EC2**, **IAM**, and **CodeDeploy**.
 
